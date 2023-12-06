@@ -6,3 +6,4 @@ All the codes solved from Leetcode during the month of December
 3. Minimum Time Visiting All Points
 4. Largest 3-Same-Digit Number in String
 5. Count of Matches in Tournament
+6. Calculate Money in Leetcode Bank
