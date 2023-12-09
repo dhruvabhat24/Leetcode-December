@@ -9,3 +9,4 @@ All the codes solved from Leetcode during the month of December
 6. Calculate Money in Leetcode Bank
 7. Largest Odd Number in String
 8. Construct String from Binary Tree
+9. Binary Tree Inorder Traversal
