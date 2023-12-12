@@ -12,3 +12,4 @@ All the codes solved from Leetcode during the month of December
 9. Binary Tree Inorder Traversal
 10. Transpose Matrix
 11. Element Appearing More Than 25% In Sorted Array
+12. Maximum Product of Two Elements in an Array
