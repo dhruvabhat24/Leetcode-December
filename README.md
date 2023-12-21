@@ -21,3 +21,5 @@ All the codes solved from Leetcode during the month of December
 18. Maximum Product Difference Between Two Pairs
 19. Image Smoother
 20. Buy Two Chocolates
+21. Widest Vertical Area Between Two Points Containing No Points
+
