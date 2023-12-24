@@ -24,3 +24,4 @@ All the codes solved from Leetcode during the month of December
 21. Widest Vertical Area Between Two Points Containing No Points
 22. Maximum Score After Splitting a String
 23. Path Crossing
+24. Minimum Changes To Make Alternating Binary String
