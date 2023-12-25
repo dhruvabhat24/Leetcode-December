@@ -25,3 +25,4 @@ All the codes solved from Leetcode during the month of December
 22. Maximum Score After Splitting a String
 23. Path Crossing
 24. Minimum Changes To Make Alternating Binary String
+25. Decode Ways
