@@ -31,5 +31,4 @@ All the codes solved from Leetcode during the month of December
 28. String Compression II
 29. Minimum Difficulty of a Job Schedule
 30. Redistribute Characters to Make All Strings Equal
-31. New Year Resolution
 
